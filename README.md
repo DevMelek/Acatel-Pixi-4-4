@@ -1,5 +1,7 @@
 # Acatel-Pixi-4-4-(4034)
 
+MY WORK FOR FOR PIXI 4-4
+
 _|_
 ------------ | -------------
 CPU | MT6580
