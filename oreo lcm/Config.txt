@@ -1,0 +1,6 @@
+OREO LCM
+
+CONFIG_LCM_HEIGHT="800"
+CONFIG_LCM_WIDTH="480"
+-
+CONFIG_CUSTOM_KERNEL_LCM="ili9806e_wvga_dsi_vdo_Holitech_pixi44 fl10802_wvga_dsi_vdo_TXD_pixi44 hx8379c_wvga_dsi_vdo_TDT_pixi44 jd9161b_wvga_dsi_vdo_TXD_pixi44 jd9161b_wvga_dsi_vdo_Holitech_pixi44"
