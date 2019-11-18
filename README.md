@@ -1,4 +1,4 @@
-# Acatel-Pixi-4-4-(4034)
+# Alcatel-Pixi-4-4-(4034)
 
 MY WORK FOR FOR PIXI 4-4
 
